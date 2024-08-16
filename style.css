@@ -1,0 +1,8 @@
+.mainbag{
+     background: radial-gradient(  circle , rgba(55, 41, 16,1) , rgba(0, 0, 0, 1) ) /* circle nhi dete toh oval oval bnte */
+}
+.c1, .c2, .c3, .c4 {
+     transition: all .5s cubic-bezier(0.19, 1, 0.22, 1);
+     height: 0;
+ }
+
